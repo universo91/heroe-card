@@ -38,7 +38,7 @@ export const SearchPage = () => {
           <form onSubmit={ onSearchSubmit } action="">
             <input 
               type="text" 
-              placeholder="Search a hero"
+              placeholder="Search a hero of Marvel or DC"
               className="form-control"
               name="searchText"
               autoComplete="off"
