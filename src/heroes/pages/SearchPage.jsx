@@ -68,7 +68,7 @@ export const SearchPage = () => {
             className="alert alert-primary animate__animated animate__fadeIn" 
             style = {{ display: showSearch ? '' : 'none' }}
           >
-            Search a hero
+            Search a hero of Marvel or DC
           </div>
 
           <div 
